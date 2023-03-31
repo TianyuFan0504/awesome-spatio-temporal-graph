@@ -20,7 +20,7 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 
 [arxiv 2023] **Dynamic Graph Convolution Network with Spatio-Temporal Attention Fusion for Traffic Flow Prediction** [[paper]](https://arxiv.org/abs/2302.12598)
 
-[ICLR 2023] **TILP: Differentiable Learning of Temporal Logical Rules on Knowledge Graphs ** [[paper]](https://openreview.net/pdf?id=_X12NmQKvX)
+[ICLR 2023] **TILP: Differentiable Learning of Temporal Logical Rules on Knowledge Graphs** [[paper]](https://openreview.net/pdf?id=_X12NmQKvX)
 
 [AAAI 2023] **Spatio-Temporal Meta-Graph Learning for Traffic Forecasting** [[paper]](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2211.14701)
 
@@ -64,9 +64,9 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 
 [arxiv 2023] **Graph Neural Rough Differential Equations for Traffic Forecasting** [[paper]](https://arxiv.org/abs/2303.10909)
 
-[AAAI 2023] **Spatiotemporal Deformation Perception for Fisheye Video Rectification** 
+[AAAI 2023] **Spatiotemporal Deformation Perception for Fisheye Video Rectification** [[paper]](https://arxiv.org/abs/2302.03934)
 
-[AAAI 2023] **Spatio-temporal Neural Structural Causal Models for Bike Flow Prediction** 
+[AAAI 2023] **Spatio-temporal Neural Structural Causal Models for Bike Flow Prediction** [[paper]](https://arxiv.org/abs/2301.07843)
 
 [ICDE 2023] **When Spatio-Temporal Meet Wavelets: Disentangled Traffic Forecasting via Efficient Spectral Graph Attention Networks** 
 
@@ -84,11 +84,11 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 
 [ICML 2022] **pathGCN: Learning General Graph Spatial Operators from Paths** [[paper]](https://proceedings.mlr.press/v162/eliasof22a.html)
 
-[KDD 2022] **Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning ** [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539422)
+[KDD 2022] **Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539422)
 
 [KDD 2022] **MSDR: Multi-Step Dependency Relation Networks for Spatial Temporal Forecasting** [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539397)
 
-[NeurIPS 2022] **Dynamic Graph Neural Networks Under Spatio-Temporal Distribution Shift ** [[paper]](https://openreview.net/forum?id=1tIUqrUuJxx)
+[NeurIPS 2022] **Dynamic Graph Neural Networks Under Spatio-Temporal Distribution Shift** [[paper]](https://openreview.net/forum?id=1tIUqrUuJxx)
 
 [TITS 2022] **KST-GCN: A Knowledge-Driven Spatial-Temporal Graph Convolutional Network for Traffic Forecasting** [[paper]](https://ieeexplore.ieee.org/abstract/document/9681326)
 
@@ -100,7 +100,7 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 
 ### Method
 
-[KDD 2022] **Spatio-Temporal Trajectory Similarity Learning in Road Networks ** [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539375)
+[KDD 2022] **Spatio-Temporal Trajectory Similarity Learning in Road Networks** [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539375)
 
 [KDD 2022] **Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer** [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539281)
 
@@ -118,7 +118,7 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 
 [NeurIPS 2022] **AZ-whiteness test: a test for signal uncorrelation on spatio-temporal graphs** [[paper]](https://openreview.net/forum?id=SFeKNSxect)
 
-[NeurIPS 2022] **Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks ** [[paper]](https://openreview.net/forum?id=pMumil2EJh)
+[NeurIPS 2022] **Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks** [[paper]](https://openreview.net/forum?id=pMumil2EJh)
 
 [KBS 2022] **Adaptive Spatio-temporal Graph Neural Network for traffic forecasting** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705122000508)
 
@@ -146,7 +146,7 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 
 [IJCAI 2022] **Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention** [[paper]](https://www.ijcai.org/proceedings/2022/0309.pdf)
 
-[KDD 2022] **Recommendation in Offline Stores: A Gamification Approach for Learning the Spatiotemporal Representation of Indoor Shopping ** [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539199)
+[KDD 2022] **Recommendation in Offline Stores: A Gamification Approach for Learning the Spatiotemporal Representation of Indoor Shopping** [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539199)
 
 [KDD 2022] **Graph2Route: A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction** [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539084)
 
@@ -192,7 +192,7 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 
 [WWW 2021] **AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph** [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449816)
 
-[NeurIPS 2021] **Discovering Dynamic Salient Regions for Spatio-Temporal Graph Neural Networks ** [[paper]](https://openreview.net/forum?id=2E4AT-qj3Dg)
+[NeurIPS 2021] **Discovering Dynamic Salient Regions for Spatio-Temporal Graph Neural Networks** [[paper]](https://openreview.net/forum?id=2E4AT-qj3Dg)
 
 
 
@@ -208,7 +208,7 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 
 [IJCAI 2021] **Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning** [[paper]](https://www.ijcai.org/proceedings/2021/0225.pdf)
 
-[NeurIPS 2021] **Dynamic COVID risk assessment accounting for community virus exposure from a spatial-temporal transmission model ** [[paper]](https://openreview.net/forum?id=jK9Hy4qJsB)
+[NeurIPS 2021] **Dynamic COVID risk assessment accounting for community virus exposure from a spatial-temporal transmission model** [[paper]](https://openreview.net/forum?id=jK9Hy4qJsB)
 
 
 
