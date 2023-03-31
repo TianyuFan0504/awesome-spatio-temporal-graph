@@ -4,7 +4,7 @@
 
 Spatio-temporal graph is of great importance in a large number of applications such as transportation and urban finance. In recent years, a great deal of work has been done to investigate it in terms of models, methods ,and applications.
 
-This repository contains a list of papers on **spatio-temporal graph**, especially about GNNs on S-T graph, which we first classify according to their year of publication and then subdivide into three categories: models (a new model), methods(use some methods to promote the performance), and applications(applications in other fields).
+This repository contains a list of papers on **spatio-temporal graph**, especially about GNNs on S-T graph, which we first classify according to their year of publication and then subdivide into three categories: models(a new model), methods(use some methods to improve the performance), and applications(applications in other fields).
 
 If you find any errors or missed papers, please directly open a [PR](https://github.com/TianyuFan0504/awesome-spatio-temporal-graph/pulls).
 
