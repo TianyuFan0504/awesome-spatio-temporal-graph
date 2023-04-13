@@ -52,7 +52,7 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 
 [arxiv 2023] **Do We Really Need Graph Neural Networks for Traffic Forecasting?** [[paper]](https://arxiv.org/abs/2301.12603)
 
-\[TMLR 2023] **Understanding and Simplifying Architecture Search in Spatio-Temporal Graph Neural Networks**[[paper]](https://openreview.net/forum?id=4jEuiMPKSF&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))
+[TMLR 2023] **Understanding and Simplifying Architecture Search in Spatio-Temporal Graph Neural Networks**[[paper]](https://openreview.net/forum?id=4jEuiMPKSF&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))
 
 
 
@@ -152,6 +152,7 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 
 [KDD 2022] **Uncertainty Quantification of Sparse Travel Demand Prediction with Spatial-Temporal Graph Neural Networks** [[paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539093)
 
+[ICDE 2022] **Spatial-Temporal Hypergraph Self-Supervised Learning for Crime Prediction** [[paper]](https://ieeexplore.ieee.org/document/9835423)
 
 
 ## Year 2021
