@@ -16,6 +16,10 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 
 ### Model
 
+[KDD 2023] **Localised Adaptive Spatial-Temporal Graph Neural Network** [[paper]](https://arxiv.org/abs/2306.06930)
+
+[KDD 2023] **Spatial Heterophily Aware Graph Neural Networks** [[paper]](https://arxiv.org/abs/2306.12139)
+
 [KDD 2023] **Graph Neural Processes for Spatio-Temporal Extrapolation** [[paper]](https://arxiv.org/abs/2305.18719)
 
 [KDD 2023] **FRIGATE: Frugal Spatio-temporal Forecasting on Road Networks** [[paper]](https://arxiv.org/abs/2306.08277)
@@ -37,6 +41,10 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 
 
 ### Method
+
+[KDD 2023] **ST-iFGSM: Enhancing Robustness of Human Mobility Signature Identification Model via Spatial-Temporal Iterative FGSM** [[paper]](https://dl.acm.org/doi/10.1145/3580305.3599513)
+
+[KDD 2023] **Causal Effect Estimation on Hierarchical Spatial Graph Data**
 
 [KDD 2023] **Robust Spatiotemporal Traffic Forecasting with Reinforced Dynamic Adversarial Training **[[paper]](https://arxiv.org/abs/2306.14126)
 
@@ -73,6 +81,8 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 ### Application
 
 [KDD 2023] **A Data-driven Region Generation Framework for Spatiotemporal Transportation Service Management** [[paper]](https://arxiv.org/abs/2306.02806)
+
+[KDD 2023] **Learning Joint Relational Co-evolution in Spatial-Temporal Knowledge Graph for SMEs Supply Chain Prediction**
 
 [AAAI 2023] **Self-supervised Action Representation Learning from Partial Spatio-Temporal** [[paper]](https://arxiv.org/abs/2302.09018)
 
