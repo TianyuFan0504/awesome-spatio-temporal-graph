@@ -16,6 +16,10 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 
 ### Model
 
+[KDD 2023] **Graph Neural Processes for Spatio-Temporal Extrapolation** [[paper]](https://arxiv.org/abs/2305.18719)
+
+[KDD 2023] **FRIGATE: Frugal Spatio-temporal Forecasting on Road Networks** [[paper]](https://arxiv.org/abs/2306.08277)
+
 [arxiv 2023] **Attention-based Spatial-Temporal Graph Convolutional Recurrent Networks for Traffic Forecasting** [[paper]](https://arxiv.org/abs/2302.12973)
 
 [arxiv 2023] **Dynamic Graph Convolution Network with Spatio-Temporal Attention Fusion for Traffic Flow Prediction** [[paper]](https://arxiv.org/abs/2302.12598)
@@ -33,6 +37,14 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 
 
 ### Method
+
+[KDD 2023] **Robust Spatiotemporal Traffic Forecasting with Reinforced Dynamic Adversarial Training **[[paper]](https://arxiv.org/abs/2306.14126)
+
+[KDD 2023] **Generative Causal Interpretation Model for Spatio-Temporal Representation Learning** [[paper]](https://dl.acm.org/doi/10.1145/3580305.3599363)
+
+[KDD 2023] **Maintaining the Status Quo: Capturing Invariant Relations for OOD Spatiotemporal Learning** [[paper]](https://di.ustc.edu.cn/_upload/tpl/11/ea/4586/template4586/assets/images/papers/zzy/CauSTG.pdf)
+
+[KDD 2023] **On Hierarchical Disentanglement of Interactive Behaviors for Multimodal Spatiotemporal Data with Incompleteness** [[paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599448)
 
 [ICLR 2023] **Do We Really Need Complicated Model Architectures For Temporal Networks?** [[paper]](https://openreview.net/pdf?id=ayPPc0SyLv1)
 
@@ -59,6 +71,8 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 
 
 ### Application
+
+[KDD 2023] **A Data-driven Region Generation Framework for Spatiotemporal Transportation Service Management** [[paper]](https://arxiv.org/abs/2306.02806)
 
 [AAAI 2023] **Self-supervised Action Representation Learning from Partial Spatio-Temporal** [[paper]](https://arxiv.org/abs/2302.09018)
 
@@ -262,6 +276,3 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 [MM 2019] **Video Relation Detection with Spatio-Temporal Graph** [[paper]](https://dl.acm.org/doi/abs/10.1145/3343031.3351058)
 
 [AAAI 2018] **Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition** [[paper]](https://ojs.aaai.org/index.php/aaai/article/view/12328)
-
-
-
