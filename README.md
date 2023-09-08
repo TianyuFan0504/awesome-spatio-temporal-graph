@@ -43,6 +43,7 @@ If you find any errors or missed papers, please directly open a [PR](https://git
 
 ### Method
 [ICML 2023] **Neural Wave Machines: Learning Spatiotemporally Structured Representations with Locally Coupled Oscillatory Recurrent Neural Networks** [[paper]](https://icml.cc/virtual/2023/poster/23717)
+
 [ICML 2023] **Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation** [[paper]](https://icml.cc/virtual/2023/poster/24346)
 
 [KDD 2023] **ST-iFGSM: Enhancing Robustness of Human Mobility Signature Identification Model via Spatial-Temporal Iterative FGSM** [[paper]](https://dl.acm.org/doi/10.1145/3580305.3599513)
